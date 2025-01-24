@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\QQApi\bin\Release\net6.0\QQApi.exe
+C:\Users\Administrator\Desktop\QQApi\bin\Release\net6.0\QQApi.deps.json
+C:\Users\Administrator\Desktop\QQApi\bin\Release\net6.0\QQApi.runtimeconfig.json
+C:\Users\Administrator\Desktop\QQApi\bin\Release\net6.0\QQApi.dll
+C:\Users\Administrator\Desktop\QQApi\obj\Release\net6.0\QQApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\QQApi\obj\Release\net6.0\QQApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\QQApi\obj\Release\net6.0\QQApi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\QQApi\obj\Release\net6.0\QQApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QQApi\obj\Release\net6.0\QQApi.dll
+C:\Users\Administrator\Desktop\QQApi\obj\Release\net6.0\QQApi.genruntimeconfig.cache
