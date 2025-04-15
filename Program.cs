@@ -13,28 +13,11 @@ class Program
     static async Task Main(string[] args)
     {
 
-        //https://ssl.ptlogin2.qq.com/jump?ptlang=2052&clientuin=351138806&clientkey=E2BEE5DAD70BF093BA5733D4D6BA4B8B61426F682616A277F076835AC49E52EF&u1=https:%2F%2Fuser.qzone.qq.com%2F351138806%2Finfocenter&source=panelstar
-        //https://ssl.ptlogin2.qq.com/jump?ptlang=2052&clientuin=3880035049&clientkey=DBC4CD4B0F326AD0B9C8E0EF58998253566379DA375F4F59329FFD2B89D3568B&u1=https:%2F%2Fuser.qzone.qq.com%2F3880035049%2Finfocenter&source=panelstar
-        //https://ssl.ptlogin2.qq.com/jump?ptlang=1033&clientuin=511413324&clientkey=f842dd0a463b26605201fdf4cef8cb9dfa078fb101c43b80ddf9de54135e2cbb4eb8cdbbb7ca2733254c5551edeb7017&u1=https:%2F%2Fqun.qq.com%2Fmember.html%2F
-        //https://ssl.ptlogin2.qq.com/jump?ptlang=1033&clientuin=2431798772&clientkey=90dc60e5c754c226ec7e5ab0c3fe5775c9d26ea13db11efe364c5b9dfcc7bab8886b552c1f8319cf4814e3be20b894eb&u1=https%3A%2F%2Fuser.qzone.qq.com%2F2431798772%2Finfocenter&keyindex=19
-        //https://ssl.ptlogin2.qq.com/jump?ptlang=1033&clientuin=2431798772&clientkey=068dbb13bc038f4ac68caaea576bf10f33ddf6981265c893196fc0fd9905c4b106cc1cfa86735dca5ff7e8ee2c36d67c&u1=https%3A%2F%2Fwx.mail.qq.com%2Flist%2Freadtemplate%3Fname%3Dlogin_page.html&keyindex=19
-        //var qq = "2431798772";
-        //var clientkey = "068dbb13bc038f4ac68caaea576bf10f33ddf6981265c893196fc0fd9905c4b106cc1cfa86735dca5ff7e8ee2c36d67c";
+        
         var qq = "";
         var clientkey = "";
         
         var type = "";
-        //Console.WriteLine(await Handle.PostQQZoneMessage(qq,"来自StarCookie客户端调试发送", clientkey,"1033"));
-
-        //Console.WriteLine(await Handle.GetUserInfo(qq,clientkey));
-
-        //Console.WriteLine(await Handle.GetGroupList(qq, clientkey, "1033"));
-
-        //Console.WriteLine(await Handle.PostAnnounce(qq, clientkey, "286106964","我滴妈啊", "1033"));
-
-        //Console.WriteLine(await Handle.SetGroupMemberNick(qq, clientkey, "286106964", "2020896116","Hacked By Krgjd", "1033"));
-
-        //Console.WriteLine(await Handle.GetGroupMember(qq, clientkey, "286106964", "1033"));
 
         while (true)
         {
